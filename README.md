@@ -21,10 +21,15 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/DEEKSHITHA-NAIK23/leetcode_solutions/tree/master/0011-container-with-most-water) |
+| [0035-search-insert-position](https://github.com/DEEKSHITHA-NAIK23/leetcode_solutions/tree/master/0035-search-insert-position) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/DEEKSHITHA-NAIK23/leetcode_solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/DEEKSHITHA-NAIK23/leetcode_solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/DEEKSHITHA-NAIK23/leetcode_solutions/tree/master/0011-container-with-most-water) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/DEEKSHITHA-NAIK23/leetcode_solutions/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
