@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/DEEKSHITHA-NAIK23/leetcode_solutions/tree/master/0011-container-with-most-water) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/DEEKSHITHA-NAIK23/leetcode_solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Greedy
 |  |
 | ------- |
