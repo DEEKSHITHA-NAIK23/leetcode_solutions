@@ -24,6 +24,7 @@
 | [0011-container-with-most-water](https://github.com/DEEKSHITHA-NAIK23/leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/DEEKSHITHA-NAIK23/leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0134-gas-station](https://github.com/DEEKSHITHA-NAIK23/leetcode_solutions/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/DEEKSHITHA-NAIK23/leetcode_solutions/tree/master/0135-candy) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/DEEKSHITHA-NAIK23/leetcode_solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/DEEKSHITHA-NAIK23/leetcode_solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 ## Greedy
@@ -31,6 +32,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/DEEKSHITHA-NAIK23/leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/DEEKSHITHA-NAIK23/leetcode_solutions/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/DEEKSHITHA-NAIK23/leetcode_solutions/tree/master/0135-candy) |
 ## Binary Search
 |  |
 | ------- |
