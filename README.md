@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0183-customers-who-never-order](https://github.com/DEEKSHITHA-NAIK23/leetcode_solutions/tree/master/0183-customers-who-never-order) |
+| [0184-department-highest-salary](https://github.com/DEEKSHITHA-NAIK23/leetcode_solutions/tree/master/0184-department-highest-salary) |
 | [1148-article-views-i](https://github.com/DEEKSHITHA-NAIK23/leetcode_solutions/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/DEEKSHITHA-NAIK23/leetcode_solutions/tree/master/1683-invalid-tweets) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/DEEKSHITHA-NAIK23/leetcode_solutions/tree/master/1741-find-total-time-spent-by-each-employee) |
